@@ -1,0 +1,10 @@
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\bin\Debug\MZSSK_proj.exe.config
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\bin\Debug\MZSSK_proj.exe
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\bin\Debug\MZSSK_proj.pdb
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\obj\Debug\MZSSK_proj.csprojAssemblyReference.cache
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\obj\Debug\MZSSK_proj.Form1.resources
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\obj\Debug\MZSSK_proj.Properties.Resources.resources
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\obj\Debug\MZSSK_proj.csproj.GenerateResource.cache
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\obj\Debug\MZSSK_proj.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\obj\Debug\MZSSK_proj.exe
+C:\Users\Wojtek\source\repos\MZSSK_proj\MZSSK_proj\obj\Debug\MZSSK_proj.pdb
